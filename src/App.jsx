@@ -9,6 +9,7 @@ function App() {
           <Home/>
           <Canvas/>
           <Customizer/>
+          
       </main>
     </>
   )
